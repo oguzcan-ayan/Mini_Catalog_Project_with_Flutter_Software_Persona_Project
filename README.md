@@ -1,6 +1,6 @@
-# first_flutter_application
+# AppTrendMarket App
 
-A new Flutter project.
+Bu proje bir e-ticaret uygulamalarından ilham alınıp oluşturulan; kullanıcının uygulama içerisindeki ürünleri görmesini, detayına bakabilmesini, sepete eklemesini ve en sonunda aldığı ürünlerin tamamını görmesini sağlayan bir mobil uygulamadır.
 
 ## Getting Started
 
