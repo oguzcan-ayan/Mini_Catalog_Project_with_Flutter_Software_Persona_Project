@@ -18,5 +18,7 @@ This project is a mobile application inspired by e-commerce applications; it all
 
 [cupertino icons@1.0.8](https://pub.dev/packages/cupertino_icons)
 
+
+
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
